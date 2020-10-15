@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  git-repo-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-10-15T13:32:50.68615164Z"
+    description: This is my chart for git commit
+    digest: 1746dd2d0c548289031c6d08b6a5ff6da8025f0c8d09221b5606f2c88312cde9
+    name: git-repo-test
+    type: application
+    urls:
+    - git-repo-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-15T13:32:50.685017937Z"
